@@ -5,6 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/Blueprints/BP_Chicken.uasset",
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/Fab/Chicken/chickenF_color.uasset",
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/Fab/Chicken/chickenF_normal.uasset",
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/Fab/Chicken/chickenF_root.uasset",
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/Fab/Chicken/chickenF_root_PhysicsAsset.uasset",
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/Fab/Chicken/chickenF_root_Skeleton.uasset",
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/Fab/Chicken/cockdoodledooLOL.uasset",
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/Fab/Chicken/idle.uasset",
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/Fab/Chicken/Material.uasset",
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/Fab/Chicken/run.uasset",
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/Fab/Chicken/spotted.uasset",
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/Fab/Chicken/walk_.uasset",
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/KU/ZT4SHX4PQF10Z2G7PHSRS5.uasset",
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/Blueprints/BPI_Interact.uasset",
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/FirstPersonArms/Character/Mesh/SK_HoldingPosition.uasset",
+				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/FirstPersonArms/Animations/FP_HoldingPosition.uasset",
 				"C:/Users/emman/Documents/Unreal Projects/ProtoProjet1/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
