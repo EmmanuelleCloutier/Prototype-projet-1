@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/caron/OneDrive/Documents/GitHub/Prototype-projet-1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/RD/L1HWRRF1T0VUBP9D8KEMVT.uasset",
+				"C:/Users/caron/OneDrive/Documents/GitHub/Prototype-projet-1/Content/AI/Behaviour_Tree/AI_Chicken.uasset",
+				"C:/Users/caron/OneDrive/Documents/GitHub/Prototype-projet-1/Content/AI/Blackboard/BT_Chicken.uasset",
 				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/Blueprints/BP_Chicken.uasset",
 				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/Fab/Chicken/chickenF_color.uasset",
 				"C:/Users/emman/Documents/GitHub/Prototype-projet-1/Content/Fab/Chicken/chickenF_normal.uasset",
