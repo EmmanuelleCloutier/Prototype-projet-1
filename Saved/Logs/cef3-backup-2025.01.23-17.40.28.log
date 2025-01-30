@@ -1,5 +1,0 @@
-[0123/123829.390:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0123/123829.600:WARNING:storage_block-inl.h(146)] Failed data load.
-[0123/123830.355:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0123/124014.602:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 187
-[0123/124028.738:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
